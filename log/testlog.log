@@ -1,0 +1,394 @@
+2020-06-04 16:37:41,635 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 16:37:41,711 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 16:37:42,772 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 16:37:47,237 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 16:37:53,359 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 16:37:59,342 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 16:38:02,436 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 16:38:10,072 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 16:38:14,372 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 16:38:19,916 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 16:38:19,918 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 16:38:21,177 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 16:38:30,764 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 16:38:41,841 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 16:38:47,456 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 16:38:47,458 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 16:38:48,494 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 16:38:53,660 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 16:38:59,757 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 16:39:05,260 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 16:41:07,701 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 16:41:07,782 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 16:41:08,625 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 16:41:11,969 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 16:41:18,094 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 16:41:22,360 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 16:41:23,314 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 16:41:30,748 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 16:41:34,293 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 16:41:39,993 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 16:41:39,995 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 16:41:40,894 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 16:41:44,570 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 16:41:50,658 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 16:41:51,806 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 16:41:55,572 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 16:42:01,233 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 16:42:01,236 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 16:42:02,250 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 16:42:05,575 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 16:42:11,666 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 16:42:16,250 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:06:17,642 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:06:17,823 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:06:18,709 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:06:23,434 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:06:29,539 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:06:33,597 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:06:34,597 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:06:42,125 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:06:45,742 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:06:51,678 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:06:51,682 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:06:52,716 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:06:56,083 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:07:02,181 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:07:03,359 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 17:07:07,208 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:07:12,901 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:07:12,906 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:07:13,673 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:07:17,571 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:07:23,673 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:07:28,652 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:08:21,723 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:08:22,078 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:08:24,063 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:08:29,370 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:08:35,648 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:08:39,678 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:08:40,610 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:08:48,373 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:08:59,175 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:08:59,179 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:09:02,841 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:09:07,000 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:09:13,252 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:09:14,317 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 17:09:18,134 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:09:29,482 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:09:29,489 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:09:32,366 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:09:35,697 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:09:41,948 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:09:47,031 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:10:46,557 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:10:46,786 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:10:49,654 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:10:54,001 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:11:00,258 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:11:04,120 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:11:04,960 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:11:12,705 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:11:22,283 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:11:22,289 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:11:25,366 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:11:28,667 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:11:34,912 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:11:35,865 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 17:11:39,623 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:11:50,689 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:11:50,717 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:11:52,818 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:11:55,781 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:12:02,046 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:12:06,642 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:13:43,236 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:13:43,403 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:13:44,559 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:13:48,164 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:13:54,259 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:13:58,355 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:13:59,294 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:14:06,812 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:14:11,091 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:14:16,597 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:14:16,601 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:14:17,413 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:14:21,864 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:14:27,951 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:14:29,109 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 17:14:32,811 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:14:38,331 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:14:38,336 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:14:39,453 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:14:43,904 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:14:50,006 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:14:54,625 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:19:19,120 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:19:19,299 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:19:20,225 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:19:24,062 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:19:30,168 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:19:34,331 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:19:35,630 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:19:43,238 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:19:46,791 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:21:09,510 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:21:09,680 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:21:10,602 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:21:15,077 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:21:21,173 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:21:25,296 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:21:26,464 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:21:33,906 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:21:37,682 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:21:43,261 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:21:43,265 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:21:44,043 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:21:47,911 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 17:21:47,919 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 17:21:52,287 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 17:21:52,295 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:28:15,993 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:28:16,175 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:28:17,553 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:28:21,890 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:28:27,996 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:28:32,576 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 17:28:33,651 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 17:28:41,245 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 17:28:44,844 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:28:50,440 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:28:50,445 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:28:51,281 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:28:55,136 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:29:01,250 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:29:02,277 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 17:29:06,073 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:29:11,701 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:29:11,704 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:29:12,599 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:29:16,734 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 17:29:22,836 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 17:29:27,971 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:29:33,728 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:29:33,733 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:29:34,754 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:29:38,985 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 17:29:39,047 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 17:29:43,021 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 17:29:43,030 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:29:48,834 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:29:48,838 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:29:49,901 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:29:53,953 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 17:29:53,966 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 17:29:57,890 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 17:29:57,896 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 17:30:03,366 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 17:30:03,371 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 17:30:04,125 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 17:30:05,227 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:15:36,813 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:15:36,983 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:15:37,808 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:15:41,191 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:15:47,286 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:15:51,407 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 18:15:52,311 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 18:15:59,768 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 18:16:03,444 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:16:08,959 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:16:08,963 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:16:09,698 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:16:13,266 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:16:19,364 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:16:20,547 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 18:16:24,239 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:16:29,914 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:16:29,919 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:16:30,691 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:16:34,972 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:16:41,070 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:16:45,843 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:16:51,331 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:16:51,333 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:16:52,066 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:16:56,604 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:16:56,619 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:17:00,442 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:17:00,448 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:17:06,127 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:17:06,131 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:17:06,933 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:17:10,955 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:17:10,963 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:17:14,773 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:17:14,778 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:17:20,255 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:17:20,260 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:17:21,031 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:17:22,027 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:18:36,968 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:18:37,303 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:18:38,530 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:18:42,919 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:18:49,018 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:18:53,027 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 18:18:54,081 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 18:19:01,923 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 18:19:05,487 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:19:11,312 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:19:11,321 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:19:12,331 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:19:17,090 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:19:23,232 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:19:24,220 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 18:19:27,969 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:19:33,559 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:19:33,567 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:19:34,783 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:19:39,040 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:19:45,142 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:19:50,215 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:19:55,689 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:19:55,695 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:19:56,772 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:20:01,227 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:20:01,250 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:20:05,238 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:20:05,245 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:20:10,799 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:20:10,805 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:20:11,540 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:20:15,380 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:20:15,399 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:20:19,560 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:20:19,566 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:20:25,231 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:20:25,238 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:20:26,342 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:20:27,267 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:24:41,660 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:24:41,967 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:24:43,067 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:24:47,827 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:24:53,928 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:24:57,973 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 18:24:59,199 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 18:25:06,801 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 18:25:10,377 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:25:16,186 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:25:16,195 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:25:17,131 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:25:21,692 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:25:27,833 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:25:29,344 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 18:25:33,368 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:25:39,366 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:25:39,375 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:25:40,576 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:25:44,506 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:25:50,606 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:25:55,528 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:26:01,302 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:26:01,308 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:26:02,270 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:26:06,045 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:26:06,080 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:26:10,012 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:26:10,020 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:26:15,639 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:26:15,643 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:26:16,257 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:26:19,251 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:26:19,263 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:26:23,167 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:26:23,173 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:26:28,701 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:26:28,708 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:26:29,670 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:26:30,535 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:51:18,740 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:51:19,099 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:51:20,638 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:51:26,223 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:51:32,324 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:51:36,885 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 18:51:38,398 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 18:51:46,253 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 18:51:50,411 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:51:56,153 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:51:56,162 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:51:57,539 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:52:02,301 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:52:08,444 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:52:09,559 - nopcommerce -INFO - *********************Providing email for searching customer********************
+2020-06-04 18:52:13,387 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:52:18,917 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:52:18,926 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:52:19,759 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:52:24,493 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 18:52:30,613 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 18:52:35,461 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:52:41,227 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:52:41,234 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:52:42,254 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:52:46,088 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:52:46,117 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:52:50,075 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:52:50,084 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:52:55,935 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:52:55,939 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:52:57,769 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:53:06,429 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:53:06,446 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:53:10,501 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:53:10,507 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 18:53:16,284 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 18:53:16,294 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 18:53:17,492 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 18:53:23,201 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:53:23,208 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 18:53:27,251 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 18:53:27,259 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 19:01:28,484 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 19:01:28,822 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 19:01:33,049 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 19:02:20,750 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 19:02:32,612 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 19:02:36,830 - nopcommerce -INFO - *********************Clicking on Add New********************
+2020-06-04 19:02:37,890 - nopcommerce -INFO - *********************Providing Customer Info********************
+2020-06-04 19:02:45,452 - nopcommerce -INFO - *********************Saving Customer Details********************
+2020-06-04 19:02:48,940 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 19:02:54,758 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 19:02:54,764 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 19:02:57,679 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 19:03:46,596 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 19:04:02,643 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 19:04:10,956 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 19:04:10,973 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 19:04:15,044 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 19:05:00,636 - nopcommerce -INFO - *********************Clicking on Customers Menu********************
+2020-06-04 19:05:15,823 - nopcommerce -INFO - *********************Clicking on Customers Menu Item********************
+2020-06-04 19:05:21,674 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 19:05:21,679 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 19:05:25,052 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 19:06:10,205 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 19:06:11,434 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 19:06:24,409 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 19:06:31,770 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 19:06:31,775 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 19:06:34,050 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 19:06:38,471 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 19:06:38,482 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 19:06:42,311 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 19:06:42,318 - nopcommerce -INFO - *********************Closing Browser********************
+2020-06-04 19:06:48,404 - nopcommerce -INFO - *********************Launching Browser********************
+2020-06-04 19:06:48,410 - nopcommerce -INFO - *********************Launching URL********************
+2020-06-04 19:06:51,598 - nopcommerce -INFO - *********************Providing UserName and Password********************
+2020-06-04 19:07:36,848 - nopcommerce -INFO - *********************Login Successful********************
+2020-06-04 19:07:37,470 - nopcommerce -INFO - *********************Clicking Logout********************
+2020-06-04 19:07:51,430 - nopcommerce -INFO - *********************Login Successful********************
